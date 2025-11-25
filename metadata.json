@@ -1,0 +1,5 @@
+{
+  "name": "ProGen Studio",
+  "description": "A professional-grade AI image generation workspace featuring the Gemini 3 Pro model. Includes advanced controls for aspect ratio, resolution (up to 4K), seeding, and batch processing in an interface inspired by power-user tools.",
+  "requestFramePermissions": []
+}
